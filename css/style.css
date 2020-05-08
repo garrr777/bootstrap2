@@ -7,3 +7,12 @@
     opacity: 0.9;
     height: 500px;
 }
+.bg-img2{
+    background-image: url('../img/img.png');
+    height: 250px;
+    width: 250px;
+}
+span.position-absolute{
+    left: 10px;
+    top: 10px;
+}
