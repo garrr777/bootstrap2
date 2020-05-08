@@ -1,0 +1,9 @@
+.bg-img{
+    background-image: url('../img/slide-pic.jpg');
+    height: 500px;
+}
+.bg-color{
+    background-color: #333;
+    opacity: 0.9;
+    height: 500px;
+}
