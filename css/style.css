@@ -1,6 +1,8 @@
 .bg-img{
     background-image: url('../img/slide-pic.jpg');
     height: 500px;
+    background-repeat: no-repeat;
+    width: 100%;
 }
 .bg-color{
     background-color: #333;
@@ -15,4 +17,8 @@
 span.position-absolute{
     left: 10px;
     top: 10px;
+}
+
+.embed{
+    margin: auto;
 }
